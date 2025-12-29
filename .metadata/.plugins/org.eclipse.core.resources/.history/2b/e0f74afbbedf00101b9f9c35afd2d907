@@ -1,0 +1,64 @@
+package example;
+
+public class Test01 {
+
+	public static void main(String[] args) {
+		// 복합대입 연산자
+		int num1 = 10;
+		System.out.println("num1 += 10 :" + (num1 += 10) ); 
+		System.out.println("num1 -= 10 : " + (num1 -= 10) ); 
+		System.out.println("num1 *= 10 : " + (num1 *= 10) ); 
+		System.out.println("num1 /= 10 : " + (num1 /= 10) ); 
+		System.out.println("num1 %= 10 : " + (num1 %= 10) ); 
+			
+		
+		
+		
+//		int num1 = 10;
+//		int i=2;
+//		boolean value =((num1 = num1+10)<10) && ((i=i+2) < 10);
+//		System.out.println(value);
+//		System.out.println(num1);
+//		System.out.println(i);
+//		System.out.println("===========");
+//		value =((num1 = num1+10)<10) || ((i=i+2) < 10);
+//		System.out.println(value);
+//		System.out.println(num1);
+//		System.out.println(i);
+		
+		
+		
+		
+//		// 관계연산자
+//		int x=10;
+//		int y=15;
+//		System.out.println("x>y:"+(x>y));
+//		System.out.println("x<y:"+(x<y));
+//		System.out.println("x>=y:"+(x>=y));
+//		System.out.println("x<=y:"+(x<=y));
+//		System.out.println("x!=y:"+(x!=y));
+//		System.out.println("x==y:"+(x==y));
+		
+		
+		//int num = 10;
+//		System.out.println("1을 더한 다음 num 값 출력");
+//		System.out.println(++num);
+//		System.out.println("============");
+//		System.out.println("기존의 num을 출력 후 1을 더함");
+//		System.out.println(num++);
+//		System.out.println(num);
+//		System.out.println("============");
+		
+		
+		//int x = 10;
+		//int y =20;
+		// 산술 연산자.
+		//System.out.println("x + y ="+ (x+y));
+		//System.out.println("x - y ="+ (x-y));
+		//System.out.println("x * y ="+ (x*y));
+		//System.out.println("x / y ="+ (x/y));
+		//System.out.println("x % y ="+ (x%y));
+			
+	}
+
+}

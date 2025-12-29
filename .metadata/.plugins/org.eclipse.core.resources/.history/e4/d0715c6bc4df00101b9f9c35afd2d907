@@ -1,0 +1,93 @@
+package example;
+
+public class Test01 {
+
+	public static void main(String[] args) {
+		// 비트 연산자
+		int num = 5; // 00000101
+		// 왼쪽으로 1bit 이동한 경우 결과값은 num값의 2를 곱한 값이 출력된다.
+		System.out.println("num << 1 =>"+(num << 1));
+		// num값은 변경되지 않음을 주의하자!
+		System.out.println(num); 
+		// num값을 변경하고 싶다면 
+		// System.out.println(num <<= 1);
+		System.out.println("num << 2 =>"+(num << 2));
+		System.out.println("num << 3 =>"+(num << 3));
+		// 00000010 num값을 나누기 2한 값이 출력됨
+		System.out.println("num >> 1 =>"+(num >> 1));
+		System.out.println("num >> 2 =>"+(num >> 2));
+		
+		
+		
+		
+		
+		// 삼항 연산자
+//		int x=10, y=20;
+//		int result = 0;
+//		result = (x > y)? 1000 : 2000;
+//		System.out.println("x > y :"+result);
+//		result = (x < y)? 1000 : 2000;
+//		System.out.println("x < y :"+result);
+//		result = (x == y)? 1000 : 2000;
+//		System.out.println("x == y :"+result);
+		
+		
+		// 복합대입 연산자
+//		int num1 = 10;
+//		System.out.println("num1 += 10 : " + (num1 += 10) ); 
+//		System.out.println("num1 -= 10 : " + (num1 -= 10) ); 
+//		System.out.println("num1 *= 10 : " + (num1 *= 10) ); 
+//		System.out.println("num1 /= 10 : " + (num1 /= 10) ); 
+//		System.out.println("num1 %= 10 : " + (num1 %= 10) ); 
+			
+		
+		
+		
+//		int num1 = 10;
+//		int i=2;
+//		boolean value =((num1 = num1+10)<10) && ((i=i+2) < 10);
+//		System.out.println(value);
+//		System.out.println(num1);
+//		System.out.println(i);
+//		System.out.println("===========");
+//		value =((num1 = num1+10)<10) || ((i=i+2) < 10);
+//		System.out.println(value);
+//		System.out.println(num1);
+//		System.out.println(i);
+		
+		
+		
+		
+//		// 관계연산자
+//		int x=10;
+//		int y=15;
+//		System.out.println("x>y:"+(x>y));
+//		System.out.println("x<y:"+(x<y));
+//		System.out.println("x>=y:"+(x>=y));
+//		System.out.println("x<=y:"+(x<=y));
+//		System.out.println("x!=y:"+(x!=y));
+//		System.out.println("x==y:"+(x==y));
+		
+		
+		//int num = 10;
+//		System.out.println("1을 더한 다음 num 값 출력");
+//		System.out.println(++num);
+//		System.out.println("============");
+//		System.out.println("기존의 num을 출력 후 1을 더함");
+//		System.out.println(num++);
+//		System.out.println(num);
+//		System.out.println("============");
+		
+		
+		//int x = 10;
+		//int y =20;
+		// 산술 연산자.
+		//System.out.println("x + y ="+ (x+y));
+		//System.out.println("x - y ="+ (x-y));
+		//System.out.println("x * y ="+ (x*y));
+		//System.out.println("x / y ="+ (x/y));
+		//System.out.println("x % y ="+ (x%y));
+			
+	}
+
+}

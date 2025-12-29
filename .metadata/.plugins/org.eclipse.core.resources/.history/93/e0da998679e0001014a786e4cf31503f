@@ -1,0 +1,39 @@
+package example;
+
+public class OPperateEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 점수가 60점 이상이면 true 출력 되도록 작성하시오. 
+		// int score = 30; 이용해 작성하시오.
+		
+		int score = 30;
+		boolean result = score>=60;
+		System.out.println(result);
+		System.out.println("===============");
+		
+		// int money = 178600; 이용해 작성하시오.
+		// money 중 5000원짜리 이상 화폐를 제외한 
+		// 1000원짜리가 3장 이상이면 true
+		int money = 178600;
+		int money1 = money/5000; // 5000원의 개수
+		int money2 = 5000*money1; // 175000
+		int money3 = money - money2; // 남은 금액
+		int money4 = money3 / 1000; // 1000의 개수
+		boolean result2 = money4 >= 3;
+		System.out.println(result2);
+		System.out.println("================");
+		
+		// int kor = 100;  int eng = 87;  int math = 41; 이용해 작성하시오.
+		// 3과목의 평균이 60점 이상이면, true  
+		// 단, 어느 한 과목이라도 50점 미만이면, false
+		int kor=100, eng=87, math=41;
+		double avg = (kor+eng+math)/3;
+		boolean result3 = avg>=60 && kor>=50 && eng>=50 && math>=50;
+		boolean result4 = (avg>=60 && (!(kor<50) && !(eng<50) && !(math<50)));
+		System.out.println(result3);
+		
+		
+	}
+
+}

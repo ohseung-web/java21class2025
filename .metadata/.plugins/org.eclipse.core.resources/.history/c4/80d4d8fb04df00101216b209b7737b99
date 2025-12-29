@@ -1,0 +1,20 @@
+package example;
+
+public class VariableEx02 {
+
+	public static void main(String[] args) {
+	// 묵시적 형 변환 : 작은 크기 -> 큰 크기, 덜 정밀 -> 더 정밀
+	byte bNum = 10;
+	int iNum = bNum;
+	System.out.println(iNum);
+	
+	long lNum = 10;
+	float fNum = lNum;
+	System.out.println(fNum);
+	
+	double dNum = fNum + iNum;
+	System.out.println(dNum);
+	
+	}
+
+}

@@ -1,0 +1,27 @@
+package example;
+
+public class Test01 {
+
+	public static void main(String[] args) {
+		int num = 10;
+		System.out.println("1을 더한 다음 num 값 출력");
+		System.out.println(++num);
+		System.out.println("============");
+		System.out.println("num을 출력 후 1을 더한 후 출력");
+		System.out.println(num++);
+		System.out.println(num);
+		System.out.println("============");
+		
+		
+		int x = 10;
+		int y =20;
+		// 산술 연산자.
+		System.out.println("x + y ="+ (x+y));
+		System.out.println("x - y ="+ (x-y));
+		System.out.println("x * y ="+ (x*y));
+		System.out.println("x / y ="+ (x/y));
+		System.out.println("x % y ="+ (x%y));
+			
+	}
+
+}

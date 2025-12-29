@@ -1,0 +1,15 @@
+package example;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello Java World");
+		
+		int a = 10;
+		
+		Object obj = new Object();
+		System.out.println(obj.hashCode());
+	}
+
+}

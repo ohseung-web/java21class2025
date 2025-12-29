@@ -1,0 +1,12 @@
+package example;
+
+public class VariableEx02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double d1=3.14;
+		double d2=123.456789;
+		
+	}
+
+}

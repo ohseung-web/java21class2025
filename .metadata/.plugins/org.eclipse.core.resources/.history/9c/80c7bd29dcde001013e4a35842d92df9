@@ -1,0 +1,13 @@
+package example;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		
+		int i = 10;
+		
+		Object obj = new Object();
+		System.out.println("i 변수의 주소 : "+obj.hashCode());
+	}
+
+}

@@ -1,0 +1,17 @@
+package example;
+
+public class Test01 {
+
+	public static void main(String[] args) {
+		int x = 10;
+		int y =20;
+		// 산술 연산자.
+		System.out.println("x + y ="+ (x+y));
+		System.out.println("x - y ="+ (x-y));
+		System.out.println("x * y ="+ (x*y));
+		System.out.println("x / y ="+ (x/y));
+		System.out.println("x % y ="+ (x%y));
+			
+	}
+
+}
