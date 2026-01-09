@@ -20,4 +20,11 @@
     <fullyQualifiedTypeName name="classpart08.ClassEx08"/>
     <fullyQualifiedTypeName name="classpart09.ClassEx09"/>
     <fullyQualifiedTypeName name="classpart10.ClassEx10"/>
+    <fullyQualifiedTypeName name="arrayListtest.MemInfo"/>
+    <fullyQualifiedTypeName name="arrayListtest.Member"/>
+    <fullyQualifiedTypeName name="arrayListEx01.Cart"/>
+    <fullyQualifiedTypeName name="arrayListEx02.Student"/>
+    <fullyQualifiedTypeName name="arrayListEx02.Subject"/>
+    <fullyQualifiedTypeName name="arrayListEx03.Player"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
