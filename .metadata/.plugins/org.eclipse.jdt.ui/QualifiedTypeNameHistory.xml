@@ -26,5 +26,14 @@
     <fullyQualifiedTypeName name="arrayListEx02.Student"/>
     <fullyQualifiedTypeName name="arrayListEx02.Subject"/>
     <fullyQualifiedTypeName name="arrayListEx03.Player"/>
+    <fullyQualifiedTypeName name="java.text.NumberFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="bookshop.BookDTO"/>
+    <fullyQualifiedTypeName name="bookshop.BookList"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="staticEx.Student"/>
+    <fullyQualifiedTypeName name="staticEx.StaticEx01"/>
+    <fullyQualifiedTypeName name="privateEx.PrivateTest"/>
 </qualifiedTypeNameHistroy>
