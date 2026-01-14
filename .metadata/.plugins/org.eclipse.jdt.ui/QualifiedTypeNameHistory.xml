@@ -28,7 +28,6 @@
     <fullyQualifiedTypeName name="arrayListEx03.Player"/>
     <fullyQualifiedTypeName name="java.text.NumberFormat"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="bookshop.BookDTO"/>
     <fullyQualifiedTypeName name="bookshop.BookList"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
@@ -39,7 +38,16 @@
     <fullyQualifiedTypeName name="inheritance.ParentClass"/>
     <fullyQualifiedTypeName name="inheritance.ChildClass"/>
     <fullyQualifiedTypeName name="inheritance02.IPTV"/>
+    <fullyQualifiedTypeName name="otomok.GameElements"/>
+    <fullyQualifiedTypeName name="otomok.Game"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="polymorphism.AnimalTest"/>
+    <fullyQualifiedTypeName name="polymorphism.Hauman"/>
+    <fullyQualifiedTypeName name="polymorphism.Tiger"/>
+    <fullyQualifiedTypeName name="polymorphism.Eagle"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="inheritance04.Customer"/>
+    <fullyQualifiedTypeName name="inheritance04.GoldCustomer"/>
     <fullyQualifiedTypeName name="inheritance04.VIPCustomer"/>
 </qualifiedTypeNameHistroy>
