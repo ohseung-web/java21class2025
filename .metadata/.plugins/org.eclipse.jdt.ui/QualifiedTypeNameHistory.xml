@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="classpart.Student"/>
-    <fullyQualifiedTypeName name="classpart.Person"/>
     <fullyQualifiedTypeName name="classpart.Bicycle"/>
     <fullyQualifiedTypeName name="classpart01.Ex01"/>
     <fullyQualifiedTypeName name="methodClass.ReturnClass"/>
@@ -40,14 +31,33 @@
     <fullyQualifiedTypeName name="inheritance02.IPTV"/>
     <fullyQualifiedTypeName name="otomok.GameElements"/>
     <fullyQualifiedTypeName name="otomok.Game"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="polymorphism.Animal"/>
     <fullyQualifiedTypeName name="polymorphism.AnimalTest"/>
     <fullyQualifiedTypeName name="polymorphism.Hauman"/>
     <fullyQualifiedTypeName name="polymorphism.Tiger"/>
     <fullyQualifiedTypeName name="polymorphism.Eagle"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="inheritance04.Customer"/>
     <fullyQualifiedTypeName name="inheritance04.GoldCustomer"/>
     <fullyQualifiedTypeName name="inheritance04.VIPCustomer"/>
+    <fullyQualifiedTypeName name="abstractTest.DeskTop"/>
+    <fullyQualifiedTypeName name="abstractTest.Computer"/>
+    <fullyQualifiedTypeName name="abstractTest.NoteBook"/>
+    <fullyQualifiedTypeName name="abstractTest.MyNoteBook"/>
+    <fullyQualifiedTypeName name="interfaceTest.Calculator"/>
+    <fullyQualifiedTypeName name="interfaceTest.CompleteCalc"/>
+    <fullyQualifiedTypeName name="schedluer.Schedluer"/>
+    <fullyQualifiedTypeName name="schedluer.RoundRobin"/>
+    <fullyQualifiedTypeName name="schedluer.PriorityAllocation"/>
+    <fullyQualifiedTypeName name="schedluer.LeastJob"/>
+    <fullyQualifiedTypeName name="interfaceTest02.Calc"/>
+    <fullyQualifiedTypeName name="interfaceTest.Calc"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="interfaceTest02.Customer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="queInterface.Queue"/>
+    <fullyQualifiedTypeName name="queInterface.BookShelf"/>
+    <fullyQualifiedTypeName name="interfaceExample01.Television"/>
+    <fullyQualifiedTypeName name="interfaceExample01.Buyable"/>
+    <fullyQualifiedTypeName name="interfaceExample01.Refrigerator"/>
+    <fullyQualifiedTypeName name="interfaceTest02.Buy"/>
 </qualifiedTypeNameHistroy>
