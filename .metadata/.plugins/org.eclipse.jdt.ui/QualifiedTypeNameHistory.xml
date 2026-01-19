@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="arrayListtest.MemInfo"/>
-    <fullyQualifiedTypeName name="arrayListtest.Member"/>
-    <fullyQualifiedTypeName name="arrayListEx01.Cart"/>
-    <fullyQualifiedTypeName name="arrayListEx02.Student"/>
-    <fullyQualifiedTypeName name="arrayListEx02.Subject"/>
-    <fullyQualifiedTypeName name="arrayListEx03.Player"/>
-    <fullyQualifiedTypeName name="java.text.NumberFormat"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="bookshop.BookDTO"/>
-    <fullyQualifiedTypeName name="bookshop.BookList"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="staticEx.Student"/>
     <fullyQualifiedTypeName name="staticEx.StaticEx01"/>
     <fullyQualifiedTypeName name="privateEx.PrivateTest"/>
@@ -41,7 +30,6 @@
     <fullyQualifiedTypeName name="interfaceTest02.Calc"/>
     <fullyQualifiedTypeName name="interfaceTest.Calc"/>
     <fullyQualifiedTypeName name="interfaceTest02.Customer"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="queInterface.Queue"/>
     <fullyQualifiedTypeName name="queInterface.BookShelf"/>
     <fullyQualifiedTypeName name="interfaceExample01.Television"/>
@@ -54,10 +42,22 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="mapTest.StringTokenizer"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="hashMapEx.Location"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="capitalGame.Game"/>
+    <fullyQualifiedTypeName name="javax.naming.ldap.StartTlsRequest"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="exceTest.MainClass05"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="otShop.User"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="otShop.UserMenu"/>
+    <fullyQualifiedTypeName name="otShop.Cart"/>
+    <fullyQualifiedTypeName name="otShop.Item"/>
 </qualifiedTypeNameHistroy>
