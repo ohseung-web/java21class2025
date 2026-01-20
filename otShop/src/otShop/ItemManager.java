@@ -34,14 +34,14 @@ public class ItemManager {
 		category.add("생선");//index가 1번째
 		category.add("육류");//index가 2번째
 		category.add("음료수");//index가 3번째
-		addItem("새우깡",1000,category.get(0));
-		addItem("고등어",2000,category.get(1));
-		addItem("칸쵸",3600,category.get(0));
-		addItem("소고기",6500,category.get(2));
-		addItem("돼지고기",5500,category.get(2));
-		addItem("콜라",1000,category.get(3));
-		addItem("사이다",1500,category.get(3));
-		addItem("새우",1800,category.get(1));
+		addItem("새우깡",1000,category.get(0)); // 0
+		addItem("고등어",2000,category.get(1));  // 1
+		addItem("칸쵸",3600,category.get(0));    // 2
+		addItem("소고기",6500,category.get(2));   // 3
+		addItem("돼지고기",5500,category.get(2));  // 4
+		addItem("콜라",1000,category.get(3));   // 5
+		addItem("사이다",1500,category.get(3));  // 6
+		addItem("새우",1800,category.get(1));   //7
 	}
 	// 카테고리 출력 메소드
 	public void printCategory() {
